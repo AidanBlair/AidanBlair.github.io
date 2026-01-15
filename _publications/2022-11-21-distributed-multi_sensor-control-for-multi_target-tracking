@@ -1,7 +1,7 @@
 ---
 title: "Distributed multi-sensor control for multi-target tracking"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2022-11-21-distributed-multi_sensor-control-for-multi_target-tracking
 excerpt: 'This paper proposes a new sensor control algorithm for multi-target tracking applications within distributed sensor networks. In multi-target tracking applications, most sensor control algorithms are designed for centralized sensor networks, where there is a central processing node that is computationally inefficient. This paper first provides a conceptual and mathematical overview of the multi-sensor multi-target tracking framework, using random finite set (RFS) filters and sensor fusion. We will also provide an overview of the existing sensor control methods. We then explore coordinate descent-based sensor control and introduce a fully distributed algorithm utilizing coordinate descent and an information-theoretic objective function. This method is tested on synthetic data and compared to alternative methods. The results show that the proposed method outperforms equivalent independent multi-sensor control methods.'
 date: 2022-11-21
