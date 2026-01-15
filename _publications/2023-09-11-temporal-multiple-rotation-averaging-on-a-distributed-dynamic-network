@@ -23,9 +23,9 @@ time-series datasets significantly increases the accuracy compared
 to the traditional algorithm for rotation averaging.'
 date: 2023-09-11
 venue: 'IEEE Transactions on Signal and Information Processing over Networks'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+slidesurl: #'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/Temporal_Multiple_Rotation_Averaging_on_a_Distributed_Dynamic_Network.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+bibtexurl: #'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'A. Blair, A. K. Gostar, R. Tennakoon, A. Bab-Hadiashar and R. Hoseinnezhad, "Temporal Multiple Rotation Averaging on a Distributed Dynamic Network," in IEEE Transactions on Signal and Information Processing over Networks, vol. 9, pp. 669-678, 2023, doi: 10.1109/TSIPN.2023.3313817.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
