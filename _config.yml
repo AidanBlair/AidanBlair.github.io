@@ -23,7 +23,7 @@ repository               : "AidanBlair/AidanBlair.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "aidan_profile.jfif"
+  avatar           : "aidan_profile.png"
   name             : "Aidan Blair, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Research Assistant"
