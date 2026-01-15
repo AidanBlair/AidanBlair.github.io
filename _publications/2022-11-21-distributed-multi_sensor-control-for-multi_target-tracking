@@ -1,0 +1,14 @@
+---
+title: "Distributed multi-sensor control for multi-target tracking"
+collection: publications
+category: conference
+permalink: /publication/2022-11-21-distributed-multi_sensor-control-for-multi_target-tracking
+excerpt: 'This paper proposes a new sensor control algorithm for multi-target tracking applications within distributed sensor networks. In multi-target tracking applications, most sensor control algorithms are designed for centralized sensor networks, where there is a central processing node that is computationally inefficient. This paper first provides a conceptual and mathematical overview of the multi-sensor multi-target tracking framework, using random finite set (RFS) filters and sensor fusion. We will also provide an overview of the existing sensor control methods. We then explore coordinate descent-based sensor control and introduce a fully distributed algorithm utilizing coordinate descent and an information-theoretic objective function. This method is tested on synthetic data and compared to alternative methods. The results show that the proposed method outperforms equivalent independent multi-sensor control methods.'
+date: 2022-11-21
+venue: '2022 11th International Conference on Control, Automation and Information Sciences (ICCAIS'
+slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://academicpages.github.io/files/Distributed_Multi-Sensor_Control_for_Multi-Target_Tracking.pdf'
+bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+citation: 'A. Blair et al., "Distributed Multi-Sensor Control for Multi-Target Tracking," 2022 11th International Conference on Control, Automation and Information Sciences (ICCAIS), Hanoi, Vietnam, 2022, pp. 231-239, doi: 10.1109/ICCAIS56082.2022.9990364.'
+---
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
