@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-07-14-evaluation-of-genetic-algorithms-in-multi_vehicle-control-for-multi_target-tracking-applications
 excerpt: 'Tracking multiple dynamic targets using a network of sensors is a challenging yet essential task in intelligent vehicles, that requires positioning the sensors in optimal locations to collect informative measurements of the system. This paper studies the application of genetic algorithms (GAs) in solving this problem. Multiple GA-based multi-sensor control algorithms are proposed, tested and compared against existing baseline methods on challenging simulated scenarios. We find that the proposed solutions significantly enhance tracking performance and computational tractability compared to the baseline methods, showcasing the suitability of GA-based control methods in intelligent transportation systems.'
 date: 2024-07-14
-venue: 'GECCO \'24 Companion: Proceedings of the Genetic and Evolutionary Computation Conference Companion'
+venue: 'GECCO 24 Companion: Proceedings of the Genetic and Evolutionary Computation Conference Companion'
 slidesurl: #'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/3638530.3654261.pdf'
 bibtexurl: #'https://academicpages.github.io/files/bibtex1.bib'
