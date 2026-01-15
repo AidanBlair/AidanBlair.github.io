@@ -2,7 +2,7 @@
 title: "Temporal multiple rotation averaging: a multi-camera dataset"
 collection: publications
 category: conferences
-permalink: /publication/2023-11-27-temporal-multiple-rotation-averaging:-a-multi_camera-dataset
+permalink: /publication/2023-11-27-temporal-multiple-rotation-averaging-a-multi_camera-dataset
 excerpt: 'This paper presents a comprehensive time-series image dataset tailored to evaluate multi-target tracking within a dynamic sensor network using multiple rotation averaging techniques. Recognizing the significant gap in the availability of datasets—particularly those offering details on camera orientations and positions—our dataset stands out by comprising images from multiple vehicles equipped with cameras navigating through a common environment. Each image in the series is supplemented with exact ground truth values for the respective camera’s orientation and location at every discrete time step. Such a rich dataset is a vital resource for techniques aiming to deduce camera positions and orientations and finds relevance in target tracking and information fusion tasks. Going beyond mere introduction, we leverage this dataset to showcase the superiority of our newly proposed temporal multiple-rotating averaging method. When juxtaposed with prevailing non-temporal techniques, our method manifests a markedly enhanced accuracy, underlining its potential for real-world applications.'
 date: 2023-11-27
 venue: '2023 12th International Conference on Control, Automation and Information Sciences (ICCAIS)'
