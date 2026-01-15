@@ -1,0 +1,31 @@
+---
+title: "Temporal multiple rotation averaging on a distributed dynamic network"
+collection: publications
+category: manuscripts
+permalink: /publication/2023-09-11-temporal-multiple-rotation-averaging-on-a-distributed-dynamic-network
+excerpt: 'This article proposes a solution for multiple rotation
+averaging on time-series data such as video. In applications using
+video data such as target tracking, in addition to the data found
+in individual frames, temporal information across multiple frames
+such as target trajectories can be used to more accurately estimate
+target states. Existing techniques for robust rotation averaging,
+including traditional iterative optimization and emerging neural
+network methods, do not exploit this temporal information.We first
+introduce the problem of using temporal data in rotation averaging
+and propose an extension to existing multiple rotation averaging
+methods via temporal rrotations. We then propose implementing a
+motion model for the cameras and predicting camera states using
+a particle filter, which are used to initialize the rotation averaging
+algorithm. These methods’ performance is evaluated through a
+Monte Carlo Simulation on synthetic data and compared to an
+existing method. The results show that using temporal data in
+time-series datasets significantly increases the accuracy compared
+to the traditional algorithm for rotation averaging.'
+date: 2023-09-11
+venue: 'IEEE Transactions on Signal and Information Processing over Networks'
+slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://academicpages.github.io/files/Temporal_Multiple_Rotation_Averaging_on_a_Distributed_Dynamic_Network.pdf'
+bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+citation: 'A. Blair, A. K. Gostar, R. Tennakoon, A. Bab-Hadiashar and R. Hoseinnezhad, "Temporal Multiple Rotation Averaging on a Distributed Dynamic Network," in IEEE Transactions on Signal and Information Processing over Networks, vol. 9, pp. 669-678, 2023, doi: 10.1109/TSIPN.2023.3313817.'
+---
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
