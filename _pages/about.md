@@ -21,7 +21,6 @@ My name is Aidan Blair, I am a Research Assistant in the School of Computing Tec
 ### Using AI for cattle monitoring in feedlots - Food Agility CRC (2024)
 - Helped implement long-range multi-camera calibration using Structure-from-Motion techniques
 
-### Statistical information fusion for multi-camera visual tracking (2020-2024)
-- PhD Thesis
-- Develooped novel distribute multi-sensor control algorithms in the Random Finite Set framework
+### Statistical information fusion for multi-camera visual tracking - PhD Thesis, ARC Scholarship (2020-2024)
+- Developed novel distribute multi-sensor control algorithms in the Random Finite Set framework
 - Developed novel Structure-from-Motion algorithms for a distributed network of camera-equipped vehicles using temporal information
